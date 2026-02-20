@@ -1,0 +1,7 @@
+{
+  "name": "2026 桃園中壢文創之旅",
+  "description": "專為手機閱讀設計的優雅文創行程表，包含橫山書法藝術館、中原文創園區等精選景點。",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
